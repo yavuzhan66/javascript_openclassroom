@@ -196,3 +196,5 @@ console.log("la serviette chaude dans mon cul");
 
 let baliseZonePropositionSpan = document.querySelector("zoneProposition span");
 console.log(baliseZonePropositionSpan)
+
+///////
